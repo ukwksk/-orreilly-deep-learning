@@ -1,6 +1,14 @@
-*~
-.swp
 .DS_Store
+*~
+*.swp
+*.gz
+*.pyc
+*.pkl
+__pycache__/
 
 .python-version
+
 .idea
+
+dataset
+sample_codes
